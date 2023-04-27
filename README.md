@@ -19,4 +19,7 @@ To orient the SiPM correctly, look at the notches at the side of the plastic cas
 
 ![SiPM Orientation](docs/SiPM-orientation.jpg)
 
-**Disclaimer:** This board has not been tested in a real world use case yet.
+<p align="center">
+  <img alt="SiPM Orientation" title="SiPM Orientation" src="docs/SiPM-orientation.jpg" width="49%" align="top">
+  <img alt="Assembled SiPM array board" title="Assembled SiPM array board" src="docs/assembly.jpg" width="49%">
+</p>
