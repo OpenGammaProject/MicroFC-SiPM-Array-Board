@@ -17,8 +17,6 @@ However, you can also close the 4 onboard jumpers (`JP1` - `JP4`), which will th
 
 To orient the SiPM correctly, look at the notches at the side of the plastic casing. There are 2 lines at the dot right here, that must be matched up with the dot on the PCB.
 
-![SiPM Orientation](docs/SiPM-orientation.jpg)
-
 <p align="center">
   <img alt="SiPM Orientation" title="SiPM Orientation" src="docs/SiPM-orientation.jpg" width="49%" align="top">
   <img alt="Assembled SiPM array board" title="Assembled SiPM array board" src="docs/assembly.jpg" width="49%">
