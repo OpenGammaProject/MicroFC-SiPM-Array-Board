@@ -9,7 +9,7 @@ PCB size is 20 x 20 mm. The solder pads for the SiPM are slightly bigger than th
   <img alt="Back Side PCB" title="Back Side PCB" src="docs/sipm2.png" height="300px">
 </p>
 
-On the front side there are only the 4 sensors themselves while all the other parts are on the back. This ensures good optical contact and light-tight sealing. The PCB includes some bias filtering for the 4 SiPMs that must also be soldered and an optional temperature compensation circuit! The temperature compensation takes care of the change in bias voltage and therefore gain depending on the ambient temperature.
+On the front side there are only the 4 sensors themselves while all the other parts are on the back. This ensures good optical contact and light-tight sealing. The PCB includes some bias filtering for the 4 SiPMs that must also be soldered and an optional temperature compensation circuit! The temperature compensation takes care of the change in bias voltage and therefore gain depending on the ambient temperature (~21mV/K).
 
 The SiPMs all share a common cathode with bulk decoupling and an R-C low-pass filter each. The anodes are **not** connected together so that you can have some spatial resolution if you want to. You could mount a very small scintillator to each sensor and then have a four pixel gamma-ray camera, yay I guess?!
 
