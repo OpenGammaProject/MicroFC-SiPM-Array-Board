@@ -5,8 +5,13 @@ Carrier board for a 2 x 2 array of the 6 mm C-Series MICROFC-60035-SMT silicon p
 PCB size is 20 x 20 mm. The solder pads for the SiPM are slightly bigger than they need to so that you can easily hand-solder everything! You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/boards/github.com/opengammaproject/MicroFC-SiPM-Array-Board/).
 
 <p align="center">
-  <img alt="Front Side PCB" title="Front Side PCB" src="docs/sipm1.png" height="300px">
-  <img alt="Back Side PCB" title="Back Side PCB" src="docs/sipm2.png" height="300px">
+  <img alt="Front Side PCB" title="Front Side PCB" src="docs/pcb_front.jpg" height="300px">
+  <img alt="Back Side PCB" title="Back Side PCB" src="docs/pcb_back.jpg" height="300px">
+</p>
+
+<p align="center">
+  <img alt="Front Side PCB Rendering" title="Front Side PCB Rendering" src="docs/sipm1.png" height="300px">
+  <img alt="Back Side PCB Rendering" title="Back Side PCB Rendering" src="docs/sipm2.png" height="300px">
 </p>
 
 On the front side there are only the 4 sensors themselves while all the other parts are on the back. This ensures good optical contact and light-tight sealing. The PCB includes some bias filtering for the 4 SiPMs that must also be soldered and an optional temperature compensation circuit! The temperature compensation takes care of the change in bias voltage and therefore gain depending on the ambient temperature (~21mV/K).
