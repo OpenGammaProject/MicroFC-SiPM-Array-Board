@@ -12,6 +12,7 @@ PCB size is 20 x 20 mm. The solder pads for the SiPM are slightly bigger than th
 <p align="center">
   <img alt="Front Side PCB Rendering" title="Front Side PCB Rendering" src="docs/sipm1.png" height="300px">
   <img alt="Back Side PCB Rendering" title="Back Side PCB Rendering" src="docs/sipm2.png" height="300px">
+  <img alt="Back Side 3D Rendering" title="Back Side 3D Rendering" src="docs/sipm3.png" height="300px">
 </p>
 
 On the front side there are only the 4 sensors themselves while all the other parts are on the back. This ensures good optical contact and light-tight sealing. The PCB includes some bias filtering for the 4 SiPMs that must also be soldered and an optional temperature compensation circuit! The temperature compensation takes care of the change in bias voltage and therefore gain depending on the ambient temperature (~21mV/K).
