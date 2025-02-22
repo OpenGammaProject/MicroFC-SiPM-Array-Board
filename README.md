@@ -2,7 +2,7 @@
 
 Carrier board for a 2 x 2 array of the 6 mm C-Series MICROFC-60035-SMT silicon photomultipliers by [onsemi](https://www.onsemi.com/pdf/datasheet/microc-series-d.pdf).
 
-PCB size is 20 x 20 mm. The solder pads for the SiPM are slightly bigger than they need to so that you can easily hand-solder everything! You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/opengammaproject/MicroFC-SiPM-Array-Board).
+PCB size is 20 x 20 mm. The solder pads for the SiPM are slightly bigger than they need to so that you can easily hand-solder everything! You can buy all the parts and the PCB using [Kitspace](https://kitspace.org/opengammaproject/MicroFC-SiPM-Array-Board) (non-affiliated).
 
 <p align="center">
   <img alt="Front Side PCB" title="Front Side PCB" src="docs/pcb_front.jpg" height="300px">
