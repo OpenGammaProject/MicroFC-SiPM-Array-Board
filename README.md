@@ -29,3 +29,5 @@ To orient the SiPM correctly, look at the notches at the side of the plastic cas
   <img alt="SiPM Orientation" title="SiPM Orientation" src="docs/SiPM-orientation.jpg" width="49%" align="top">
   <img alt="Assembled SiPM array board" title="Assembled SiPM array board" src="docs/assembly.jpg" width="49%">
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GLR3G)
